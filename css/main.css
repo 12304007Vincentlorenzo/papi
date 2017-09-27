@@ -1,0 +1,8 @@
+/*-----------MENU-----------*/
+a.nav-link {
+	color: white;
+}
+a.nav-link:hover {
+	color: blue;
+}
+/*-----------List Barang-----------*/

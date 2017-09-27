@@ -14,7 +14,7 @@
 				$row=mysqli_fetch_assoc($query);
 				$_SESSION['ID'] = $row['username'];
 				$_SESSION['name'] = $row['name'];
-				header("Location: ../teamregis.php");
+				header("Location: ../main.php");
 			} else {
 				$_SESSION['errMsg'] = "Invalid username or password";
 				header("Location: ../login.php");

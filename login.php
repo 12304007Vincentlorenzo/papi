@@ -6,7 +6,6 @@ if(empty($_SESSION['ID'])) {?>
 		<title>Jaya Makmur Abadi</title>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<link rel="stylesheet" href="main.css">
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/bootstrap-grid.min.css">
 		<link rel="stylesheet" href="css/bootstrap-reboot.min.css">
